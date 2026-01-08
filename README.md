@@ -4,6 +4,10 @@ Project Overview
 
 An NLP-based tool called the Skill Gap Analyzer is used to assess how well a candidate's resume matches the skills needed for actual jobs. In order to find the most pertinent job matches, it processes resume text and unstructured job skill data, converts them into numerical representations, and calculates similarity scores. The approach provides actionable advice for focused skill growth by further analyzing skill overlap to identify matched and absent skills. The project treats resume-job matching as a text similarity task instead of a conventional prediction problem, emphasizing interpretability and proper ML problem formulation.
 
+Dataset Used
+
+https://www.kaggle.com/datasets/meerawks/it-skills-from-jobs
+
 Key Features
 
 
